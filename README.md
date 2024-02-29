@@ -15,8 +15,8 @@
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/python-original-wordmark.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)
-
 ### Tools 👨🏾‍💻
 
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
